@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.fwdqgss.cn/sitemap.xml
